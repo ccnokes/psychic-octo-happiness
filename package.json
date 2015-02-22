@@ -1,0 +1,11 @@
+{
+  "name": "CF7-GA",
+  "version": "0.0.0",
+  "description": "Google analytics custom events for Contact Form 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Nokes",
+  "license": "MIT"
+}
